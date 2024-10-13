@@ -7,6 +7,7 @@ This repository contains:
 
 
 Latest MATLAB Script:
+
 the script (Altimetry_DataCheck_V8.m) Visualizes the time series of water levels at all virtual stations. Plots the stations' locations on a map in two different ways:
 A scatter plot where the color represents the mean water level at each station.
 A map that separates stations based on the source of the altimetric data.
