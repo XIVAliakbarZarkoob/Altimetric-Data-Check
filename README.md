@@ -4,6 +4,7 @@ Altimetric-Data-Check
 This repository contains:
 1. River water level altimetric data from multiple sources for two basins: Niger and Ganges-Brahmaputra.
 2. A MATLAB script for performing a simple analysis and visualization of this data.
+3. Python scripts for downloading altimetric data from each data source.
 
 
 Latest MATLAB Script:
