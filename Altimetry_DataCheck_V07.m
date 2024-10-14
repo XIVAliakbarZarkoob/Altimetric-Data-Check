@@ -27,8 +27,8 @@ end
 
 % change path to each data folder if needed
 path_d = ['./Dahiti/', REGION, ' Basin/'];          % Dahiti Altimetry Data
-path_h = ['./Hydroweb/', REGION, ' Basin'];         % Hydroweb Altimetry Data
-path_c = ['./CLMS/', REGION, ' Basin'];             % CLMS Altimetry data
+path_h = ['./Hydroweb/', REGION, ' Basin/'];         % Hydroweb Altimetry Data
+path_c = ['./CLMS/', REGION, ' Basin/'];             % CLMS Altimetry data
 
 %% Load Altimetric Data
 
